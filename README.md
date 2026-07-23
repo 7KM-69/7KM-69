@@ -62,13 +62,6 @@ with a strong emphasis on design detail and user experience.
   <img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=7KM-69&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=34a0a3&icon_color=34a0a3&text_color=57606a&bg_color=ffffff" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7KM-69&layout=compact&hide_border=true&title_color=34a0a3&text_color=57606a&bg_color=ffffff" alt="top languages" />
-</p>
-
 <p align="center">
   <a href="mailto:ahmadmadi2006@gmail.com"><img src="https://img.shields.io/badge/Email-34a0a3?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
