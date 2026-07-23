@@ -56,19 +56,17 @@ with a strong emphasis on design detail and user experience.
 
 <br/>
 
-### GitHub Stats
+### Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=7KM-69&bg_color=ffffff&color=1f2328&line=34a0a3&point=1f6f72&area=true&area_color=34a0a3&title_color=1f2328&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
+  <img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="3D contribution graph" />
 </p>
+
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=7KM-69&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=34a0a3&icon_color=34a0a3&text_color=57606a&bg_color=ffffff" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7KM-69&layout=compact&hide_border=true&title_color=34a0a3&text_color=57606a&bg_color=ffffff" alt="top languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=7KM-69&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=34a0a3" alt="trophies" />
 </p>
 
 <p align="center">
