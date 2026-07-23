@@ -1,100 +1,68 @@
-<!-- ═══════════════════════════════════════════════════ -->
-<!--            👋  Hi, I'm Ahmad Madi  •  7KM-69           -->
-<!-- ═══════════════════════════════════════════════════ -->
+<h1 align="center">Ahmad Madi</h1>
 
-<div align="center">
+<p align="center">
+  Full-Stack Developer · Building clean, polished web products
+</p>
 
-<a href="https://github.com/7KM-69">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=800&color=34A0A3&center=true&vCenter=true&width=560&height=70&lines=Hi+there%2C+I'm+Ahmad+%F0%9F%91%8B;Full-Stack+Developer;Next.js+%2B+Supabase+%2B+n8n;I+build+clean%2C+polished+products+%E2%9C%A8" alt="typing banner" />
-</a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=7KM-69&label=Profile%20views&color=34a0a3&style=flat-square" alt="visitors" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-Web%20%26%20Automation-34a0a3?style=flat-square" alt="focus" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-1f6f72?style=flat-square" alt="open" />
+### About
 
-</div>
+I design and build full-stack web applications — from database and auth to refined, motion-rich
+interfaces. My focus is educational platforms, e-commerce, and workflow automation with **n8n**,
+with a strong emphasis on design detail and user experience.
 
----
+- **Stack** — Next.js · Supabase · TypeScript · PostgreSQL
+- **Focus** — Full-stack products, RTL/Arabic UIs, automation & AI integrations
+- **Currently** — Building subscription-based learning platforms
+- **Reach me** — [ahmadmadi2006@gmail.com](mailto:ahmadmadi2006@gmail.com)
 
-<div align="center">
+<br/>
 
-### 🧑‍💻 About Me
+### Featured Projects
 
-</div>
+| Project | Description | Stack |
+| :------ | :---------- | :---- |
+| **[Madi Physics Platform](https://github.com/7KM-69/madi-physics-platform)** | Monthly-subscription platform for physics lectures with secure video & PDF delivery | Next.js · Supabase |
+| **[Bodliy Store](https://github.com/7KM-69/bodliy-store)** | E-commerce storefront with a polished, animated interface | Next.js |
+| **[Dental Clinic Website](https://github.com/7KM-69/dental-clinic-website)** | Bilingual (AR/EN) single-page clinic site with WhatsApp booking | Vanilla JS |
+| **[JAMR Burgers](https://github.com/7KM-69/jamr-burgers)** | Restaurant ordering experience with a loyalty system | Next.js · Supabase |
 
-- 🚀 **Full-Stack Developer** building educational platforms and e-commerce sites with elegant interfaces.
-- 🧩 Passionate about **workflow automation** with **n8n** and connecting AI to real-world apps.
-- 🎨 I care about the details: refined design, smooth motion (GSAP), and clean UX.
-- 🌱 Always learning — every project is a chance to master something new.
-- 💬 Ask me about: `Next.js` · `Supabase` · `TypeScript` · `n8n`
+<br/>
 
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
+### Tech & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
-</div>
+<br/>
 
----
+### GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=7KM-69&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=34a0a3&icon_color=34a0a3&text_color=57606a&bg_color=ffffff" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7KM-69&layout=compact&hide_border=true&title_color=34a0a3&text_color=57606a&bg_color=ffffff" alt="top languages" />
+</p>
 
-### 📊 GitHub Stats
-
-<table>
-<tr>
-<td>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=7KM-69&show_icons=true&hide_border=true&title_color=34a0a3&icon_color=34a0a3&text_color=8b949e&bg_color=0d1117" alt="stats" />
-</td>
-<td>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7KM-69&layout=compact&hide_border=true&title_color=34a0a3&text_color=8b949e&bg_color=0d1117" alt="top languages" />
-</td>
-</tr>
-</table>
-
-<img src="https://streak-stats.demolab.com?user=7KM-69&hide_border=true&ring=34a0a3&fire=34a0a3&currStreakLabel=34a0a3&background=0d1117&stroke=34a0a3&sideNums=8b949e&currStreakNum=8b949e&sideLabels=8b949e&dates=6e7681" alt="streak" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Connect With Me
-
-<a href="mailto:ahmadmadi2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/7KM-69">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<i>"Build something useful — and make it beautiful." ⚡</i>
-
-</div>
+<p align="center">
+  <a href="mailto:ahmadmadi2006@gmail.com"><img src="https://img.shields.io/badge/Email-34a0a3?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
